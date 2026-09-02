@@ -3,3 +3,4 @@ TIMEOUT=60
 LOG_LEVEL=ERRORgit
 OWNER=team-a
 REGION=OrderService.Create
+RETRIES=5
