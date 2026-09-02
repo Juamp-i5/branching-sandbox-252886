@@ -3,3 +3,4 @@ TIMEOUT=60
 LOG_LEVEL=WARNING
 OWNER=team-a
 REGION=NotificationService.Confirmation
+RETRIES=3
