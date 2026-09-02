@@ -1,6 +1,13 @@
 APP_NAME=OrderFlow
 TIMEOUT=60
+<<<<<<< HEAD
 LOG_LEVEL=ERRORgit
 OWNER=team-a
 REGION=OrderService.Create
 RETRIES=5
+=======
+LOG_LEVEL=WARNING
+OWNER=team-a
+REGION=NotificationService.Confirmation
+RETRIES=3
+>>>>>>> feature/long-lived
