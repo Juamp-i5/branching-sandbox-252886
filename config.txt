@@ -1,4 +1,5 @@
 APP_NAME=OrderFlow
 TIMEOUT=60
-LOG_LEVEL=ERROR
+LOG_LEVEL=ERRORgit
 OWNER=team-a
+REGION=OrderService.Create
